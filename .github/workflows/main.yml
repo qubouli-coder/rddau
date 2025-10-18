@@ -1,4 +1,4 @@
-name: rddau
+name:rddau
 
 on:
 workflow_dispatch:
